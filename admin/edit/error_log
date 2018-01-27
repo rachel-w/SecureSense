@@ -1,0 +1,3 @@
+[25-Apr-2017 00:46:38 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/contreraso1/public_html/SecureSense/admin/edit/index.php on line 121
+[25-Apr-2017 00:46:39 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/contreraso1/public_html/SecureSense/admin/edit/index.php on line 121
+[25-Apr-2017 00:46:41 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/contreraso1/public_html/SecureSense/admin/edit/index.php on line 121
